@@ -1,0 +1,13 @@
+ul,li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.menu-items{
+    display: flex;
+    border: solid 1px #ccc;
+    padding: 10px 0;
+    column-gap: 10px;
+}
